@@ -63,3 +63,7 @@ The household allocation uses CFPS 2022, conducted by the Institute of Social Sc
 Peking University. Attribute CFPS and other original sources when relevant, cite this Dataset
 and the software version used, and indicate modifications. The corresponding Data Descriptor
 manuscript is in preparation; no journal publication or article DOI is asserted here.
+
+## Validation note
+
+Validation note (26 October 2026): `output/validation/summary.txt` contains an external comparator labelled 'NBS household survey 2023: 0.465'. Its attribution to the cited yearbook table has not been verified against the original table. This comparator is printed for context only; it is not used in SAM construction, balancing or calculation of the dataset's between-decile Gini (0.498). The manuscript omits this comparison. The version 1.0.0 ZIP is preserved unchanged.
