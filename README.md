@@ -67,3 +67,7 @@ manuscript is in preparation; no journal publication or article DOI is asserted 
 ## Validation note
 
 Validation note (26 October 2026): `output/validation/summary.txt` contains an external comparator labelled 'NBS household survey 2023: 0.465'. Its attribution to the cited yearbook table has not been verified against the original table. This comparator is printed for context only; it is not used in SAM construction, balancing or calculation of the dataset's between-decile Gini (0.498). The manuscript omits this comparison. The version 1.0.0 ZIP is preserved unchanged.
+
+## CFPS source provenance
+
+The authors confirmed on 26 October 2026 that the CFPS 2022 family-economics input was obtained from the official CFPS data platform <https://cfpsdata.pku.edu.cn/#/home>. They identify the version used as `2026-10-10`; the file read by the software is `cfps2022famecon_202410.dta`. The version label is not an asserted historical download date, release date or Dataverse version number. Original microdata are not redistributed. This provenance clarification does not change the fixed version 1.0.0 ZIP or its Dataset DOI.
