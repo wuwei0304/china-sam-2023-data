@@ -63,4 +63,3 @@ The household allocation uses CFPS 2022, conducted by the Institute of Social Sc
 Peking University. Attribute CFPS and other original sources when relevant, cite this Dataset
 and the software version used, and indicate modifications. The corresponding Data Descriptor
 manuscript is in preparation; no journal publication or article DOI is asserted here.
-

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+type: dataset
+message: "Please cite this fixed Dataset version using its DOI; software is cited separately."
+title: "A 2023 social accounting matrix for China with income-decile households and financial accounts"
+version: 1.0.0
+authors:
+  - family-names: Wu
+    given-names: Wei
+    affiliation: "Harbin Institute of Technology, Shenzhen, China"
+  - family-names: Jiang
+    given-names: Jingjing
+    affiliation: "Harbin Institute of Technology, Shenzhen, China"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.23654134
+date-released: 2026-10-26
+url: "https://github.com/wuwei0304/china-sam-2023-data"

@@ -1,0 +1,36 @@
+{
+  "upload_type": "dataset",
+  "title": "A 2023 social accounting matrix for China with income-decile households and financial accounts",
+  "version": "1.0.0",
+  "access_right": "open",
+  "language": "eng",
+  "description": "Complete 67-account social accounting matrix for China in 2023 with ten income-decile household groups and financial accounts. Includes CSV, long-format and eight-sheet XLSX matrices, group-level validation, sensitivity and multiplier outputs, concordances and figures. CFPS confirmed public sharing of the stated group-level aggregate parameters without prior review or filing. No original survey records, provider workbooks or internal decile workbook are included. Authors' aggregate outputs are licensed CC BY 4.0; the source-data rights remain with their providers.",
+  "creators": [
+    {
+      "name": "Wu, Wei",
+      "affiliation": "Harbin Institute of Technology, Shenzhen"
+    },
+    {
+      "name": "Jiang, Jingjing",
+      "affiliation": "Harbin Institute of Technology, Shenzhen"
+    }
+  ],
+  "keywords": [
+    "social accounting matrix",
+    "China",
+    "income deciles",
+    "flow of funds",
+    "financial accounts"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.23642715",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Dataset version 1.0.0. GitHub mirror: https://github.com/wuwei0304/china-sam-2023-data. The code is separately archived at https://doi.org/10.5281/zenodo.23642715 under MIT. The software DOI is not the Dataset DOI.",
+  "license": "cc-by-4.0",
+  "doi": "10.5281/zenodo.23654134",
+  "publication_date": "2026-10-26"
+}
